@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+
+DEBUG = True
+DAEMON = False
+
+KL_RPC_ENDPOINT = 'tcp://192.168.123.2:11234'
